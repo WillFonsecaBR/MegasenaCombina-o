@@ -1,0 +1,6 @@
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\bin\Debug\Megasena - Combinação.exe.config
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\bin\Debug\Megasena - Combinação.exe
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\bin\Debug\Megasena - Combinação.pdb
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\obj\Debug\Megasena - Combinação.exe
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\obj\Debug\Megasena - Combinação.pdb
+D:\PUCMinas\POO\Projetos C#\Megasena - Combinação\Megasena - Combinação\obj\Debug\Megasena - Combinação.csprojResolveAssemblyReference.cache
